@@ -3,6 +3,7 @@
     flex-direction: column;
     align-items: center;
     
+
 }
 .button{
     background-color: aqua;
@@ -11,6 +12,7 @@
     padding: 10px;
     width: 100%;
 }
+
 .animal-list{
     display: flex;
     flex-direction: row;
